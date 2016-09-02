@@ -1,1 +1,1 @@
-# django-webiste
+# django-website
